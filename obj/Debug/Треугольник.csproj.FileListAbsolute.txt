@@ -18,3 +18,13 @@ C:\Users\Ruslan\Desktop\Треугольник\obj\Debug\Треугольник.
 C:\Users\Ruslan\Desktop\Треугольник\obj\Debug\Треугольник.csproj.CoreCompileInputs.cache
 C:\Users\Ruslan\Desktop\Треугольник\obj\Debug\Треугольник.exe
 C:\Users\Ruslan\Desktop\Треугольник\obj\Debug\Треугольник.pdb
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\obj\Debug\Треугольник.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\obj\Debug\Треугольник.Form1.resources
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\obj\Debug\Треугольник.Properties.Resources.resources
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\obj\Debug\Треугольник.csproj.GenerateResource.cache
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\obj\Debug\Треугольник.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\obj\Debug\Треугольник.exe
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\obj\Debug\Треугольник.pdb
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\bin\Debug\Треугольник.exe.config
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\bin\Debug\Треугольник.exe
+C:\Users\Ruslan\Desktop\ПиТМ\Triangle\bin\Debug\Треугольник.pdb
